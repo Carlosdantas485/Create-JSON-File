@@ -1,0 +1,11 @@
+{
+    "accounts": [
+        {
+            "name": "Carlos",
+            "email": "Carlos@email.com",
+            "password": "Senha@123",
+            "phone": "+5511123456789",
+            "age": 25
+        }
+    ]
+}
